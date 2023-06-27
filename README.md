@@ -1,4 +1,5 @@
 # Amazon-Clone-Front-End-
+https://ritwika-14.github.io/Amazon-Clone-Front-End-/ tap here for a quick view
 This project is a frontend clone built using HTML and CSS. It aims to replicate the user interface and design of a specified website or application. By studying the target website(amazon.com), you can recreate its frontend using HTML for structure and CSS for styling.
 
 ## Getting Started
